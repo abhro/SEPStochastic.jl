@@ -1,0 +1,14 @@
+name = "SEPStochastic"
+uuid = "95405a59-d8a5-4acf-bb69-e355dc5bbc21"
+authors = ["Abhro Rahman", "Ming Zhang", "Lei Cheng"]
+version = "0.1.0"
+
+[deps]
+Comonicon = "863f3e99-da2a-4334-8734-de3dacbe5542"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+ERFA = "17511681-8477-586a-8d98-4cfd5a1f2ec3"
+FortranFiles = "c58ffaec-ab22-586d-bfc5-781a99fd0b10"
+HDF5 = "f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f"
+LegendrePolynomials = "3db4a2ba-fc88-11e8-3e01-49c72059a882"
+OffsetArrays = "6fe1bfb0-de20-5000-8ca7-80f57d26f881"
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
